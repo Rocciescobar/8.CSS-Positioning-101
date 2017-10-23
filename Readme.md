@@ -1,7 +1,7 @@
 # CSS Positioning 101 #
 
 ## Introducción
-El presente trabajo consiste en replicar Replica todos los ejemplos de layouts (Examples A - J) del siguiente artículo: 
+El presente trabajo consiste en replicar todos los ejemplos de layouts (Examples A - J) del siguiente artículo: 
 
 [CSS Positioning 101](https://alistapart.com/article/css-positioning-101 "CSS Positioning 101")
 
